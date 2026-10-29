@@ -1,0 +1,336 @@
+# Openbare Orde
+
+## Artikel 1 - Fail-RP 
+
+Het is niet toegestaan opzettelijk roleplay van gebrekkige kwaliteit te vertonen welke de algehele spelervaring nadelig beïnvloedt.
+
+!!! example "Voorbeelden"
+    - Zonder aanleiding een onderhandeling, medische behandeling of ander actief scenario verstoren.
+    - Na een zware aanrijding of het over de kop slaan doorrijden alsof er niets is gebeurd.
+    - Praten of informatie doorgeven terwijl je karakter overleden of bewusteloos is.
+    - Via een `/me`-actie spreken terwijl je mond is afgeplakt. Een beschrijving van een waarneembare toestand is wel toegestaan.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel 2 - Powergaming
+
+Het is niet toegestaan opzettelijk een scenario oneerlijk of onrealistisch te beïnvloeden, waaronder het uitoefenen van onrealistische dwang. 
+
+!!! example "Voorbeelden"
+    - Via `/me` een uitkomst afdwingen zonder de ander gelegenheid te geven te reageren.
+    - Iemand vastbinden zonder de benodigde middelen, of de beperkingen van boeien negeren.
+    - Een persoon dragen die zelf al iemand draagt, of dragen gebruiken om extra personen op een motor mee te nemen.
+    - Emotes of animaties gebruiken om een oneerlijk voordeel te behalen of handelingen te omzeilen.
+    - Een meewerkende gijzelaar zonder nieuwe, gegronde aanleiding doden.
+
+!!! danger "Sanctie"
+    **Categorie 3:** een ban van 2 dagen.
+
+---
+
+## Artikel 3 - Meta-gaming
+
+Het is niet toegestaan gebruik te maken van informatie die buiten het spel om is verkregen.
+
+!!! example "Voorbeelden"
+    - Locaties of plannen doorgeven via een externe spraakoproep tijdens een scenario.
+    - Meekijken via schermdelen om informatie te krijgen die je karakter niet heeft.
+    - Informatie uit Discord, een opname of livestream gebruiken zonder dat je karakter deze in roleplay heeft verkregen.
+
+!!! example "Uitzondering"
+    - Discords die door het management/coördinatoren zijn goedgekeurd. (Maak hiervoor een ticket)
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 4 - Out Of Character
+
+Het is niet toegestaan om je karakter te breken door OOC-informatie en termen te gebruiken in-game.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel 5 - New Life Rule
+
+Na het overlijden van een karakter  wordt verwacht dat alle relevante roleplay van vóór de dood wordt vergeten, waaronder locaties, personen, situaties en eventuele specifieke informatie. Informatie over het overlijden verkregen na de dood mag ook niet worden gebruikt. 
+
+Je keert niet terug naar het scenario waarin je bent overleden en neemt geen wraak voor dat overlijden. Dit geldt ook voor overheidsmedewerkers. Algemene karaktergegevens, zoals je baan of lidmaatschap van een organisatie, blijven behouden; informatie over het betreffende scenario niet.
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 6 - Geen intentie tot roleplay
+
+Het is niet toegestaan opzettelijk gedrag te vertonen waar geen intentie tot roleplay bij aanwezig is.
+
+!!! example "Voorbeelden"
+    - Mass VDM (Grootschalig opzettelijk aanrijden)
+    - Mass RDK (Grootschalig willekeurig doden)
+    - RP ontwijkend gedrag
+    - Kloten / Trollen
+
+!!! danger "Sanctie"
+    **Categorie 7:** permanente ban.
+
+---
+
+## Artikel 7 - Combat-logging
+
+Het is niet toegestaan de stad te verlaten tijdens een actief scenario of binnen 10 minuten na afloop.
+
+!!! example "Uitzondering"
+    - Mocht je bij onvoorziene omstandigheden (crash, situatie buiten game, enz.) de game hebben verlaten, moet dit binnen 5 minuten gemeld worden om zo het scenario goed te kunnen voortzetten. 
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 8 - Combat-stashing
+
+Het is niet toegestaan tijdens een actief scenario of binnen 10 minuten na afloop daarvan voorwerpen, voertuigen of gebruikte wapens op onbereikbare plekken (huis, opslag, garage en/of kofferbak) op te bergen om deze aan het scenario te onttrekken.
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 9 - baiting
+
+1. Het is niet toegestaan opzettelijk de aandacht van de overheid te trekken of hen van werkzaamheden te weerhouden zonder gegronde redenen.
+2. Het is niet toegestaan opzettelijk eenieder uit te lokken zonder een gegronde of geloofwaardige reden. 
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel 10 - No Value Of Life
+
+1. Het is niet toegestaan het leven van je karakter lichtvaardig te behandelen. Het dient met respect en waarde te worden benaderd, zoals in de werkelijkheid. 
+2. Zelfmoord RP is niet toegestaan. 
+
+!!! example "Voorbeelden"
+    - Een gericht vuurwapen op korte afstand negeren terwijl je geen realistische uitweg hebt.
+    - Onder directe bedreiging een wapen trekken of een noodknop gebruiken zonder rekening te houden met het gevaar.
+    - Opzettelijk overlijden of van een gebouw springen om een aanhouding of gijzeling te ontlopen.
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 11 - Voertuigen in gebouwen
+
+1. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing.
+
+---
+
+## Artikel 12 - Impersonatie overheidsmedewerker
+
+1. Het is niet toegestaan jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
+2. Het is toegestaan kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel 13 - Pitten
+
+Het is niet toegestaan een pit uit te voeren, behalve wanneer de snelheid lager is dan 100 km/h en de manoeuvre op een verantwoordelijke wijze gebeurt. Pits mogen niet worden uitgevoerd met een kleiner of lichter voertuig dan het doelvoertuig en zijn verboden op motoren.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag
+
+---
+
+## Artikel 14 - Kledingregels
+
+1. Het is niet toegestaan de standaard outfit te dragen tijdens roleplay. Spelers dienen een passende outfit te kiezen bij aanvang of een kledingwinkel te bezoeken. 
+2. Doorzichtige lichaamsdelen of kleding die door armen, benen of torso heen gaat is niet toegestaan.
+3. Het is niet toegestaan kleding te dragen die doet lijken alsof je bij de overheid of een officieel bedrijf hoort, tenzij je daar daadwerkelijk lid van bent. 
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing.
+
+---
+
+## Artikel 15 - Cheats & externe software
+
+1. Het is niet toegestaan gebruik te maken van software en/of hulpmiddelen (cheats of hacks) van derden te gebruiken.
+
+!!! example "Voorbeelden van verboden software"
+    - Mod menu's (Eulen, Redengine, etc.).
+    - graphic packs (waar een oneerlijk voordeel uit gehaald kan worden)
+    - Injectors.
+    - Macro keys.
+    - Autoclickers.
+    - Crosshairs.
+    - Spoofers.
+    - Stretched resolutie (alleen 16:9 en 16:10 zijn toegestaan).
+
+!!! danger "Sanctie"
+    **Categorie 7:** permanente ban.
+
+---
+
+## Artikel 16 - Bugs en exploits
+
+Het is niet toegestaan opzettelijk bugs of exploits te misbruiken voor eigen of andermans voordeel. Voorwerpen en/of financiële bezittingen verkregen via bugs of exploits worden verwijderd. 
+
+Meld aangetroffen fouten via een ticket. Gebruik of verspreid goederen die door een bug zijn verkregen niet, ook niet wanneer deze na een restart nog in je bezit zijn.
+
+!!! example "Voorbeelden"
+    - Items of geld dupliceren.
+    - Met animaties door muren of afgesloten deuren bewegen.
+    - Opnieuw inloggen om gezondheid te herstellen of beperkingen van een scenario te omzeilen.
+
+!!! danger "Sanctie"
+    **Categorie 6:** een ban van 1 maand.
+
+---
+
+## Artikel 17 - Spam
+
+Het is niet toegestaan overmatig veel berichten in korte tijd te sturen. Hieronder vallen ook reports en tickets.
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing.
+
+---
+
+## Artikel 18 - VDM (Vehicle Deathmatch)
+
+Het is niet toegestaan een voertuig als wapen te gebruiken; ook zonder dodelijk gevolg wordt dit aangemerkt als VDM (dit betreft ook NPC)
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+## Artikel 19 - RDM (Random Deathmatch)
+
+Het is niet toegestaan zonder gegronde aanleiding iemand van het leven te beroven (RDM). Een stafflid bepaalt te allen tijde of de aanleiding gegrond is. 
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+
+
+## Artikel 20 - Microfoon
+
+1. Het is niet toegestaan de server te betreden zonder een goed werkende microfoon waarin je duidelijk te verstaan bent. 
+2. Het misbruiken van een microfoon (earrapen, blazen, schreeuwen, afspelen van muziek, soundpads) is niet toegestaan.
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing.
+
+---
+
+## Artikel 21 - Talen 
+
+1. De voertalen zijn Nederlands en Engels.
+2. Het is niet toegestaan in andere talen provocerende of beledigende uitlatingen te doen.
+3. Tijdens gesprekken met staff dient Nederlands te worden gesproken. 
+
+!!! danger "Sanctie"
+    **Categorie 1:** een waarschuwing.
+
+---
+
+## Artikel 22 - Reports en tickets
+
+1. De ingame /report functie is uitsluitend bedoeld om zaken ter plekke op te lossen. Elk misbruik van deze functie krijgt een sanctie. 
+2. Bij complexe zaken die niet via /report kunnen worden opgepakt dient altijd een ticket te worden gemaakt via de support discord van Unlimited Roleplay.
+3. /reports moeten te allen tijden beschouwd worden als OOC informatie en mag niet zonder toestemming van staff, ingame gedeeld worden met mede spelers.
+4. Tickets over een scenario moeten binnen 5 dagen na het betreffende scenario worden aangemaakt. 
+5. Tickets moeten zo compleet mogelijk worden gemaakt, denk daarbij aan clips (minimaal 2 min voor en 2 min na het voorval) ingame communicatie (/reports) en/of eerdere tickets of berichten van staff. 
+6. Refund tickets onder €10.000,- worden niet behandeld. 
+7. Onwaarheden, taggen, bedreigen en/of beledigingen is niet toegestaan.
+8. Meerdere tickets over hetzelfde scenario zijn niet toegestaan. 
+9. Bij het niet voldoen van aanwijzingen van staff of het bovenstaande worden /reports en tickets meteen gesloten. 
+10. Beschrijf de betrokken spelers, locatie, het tijdstip en de gebeurtenissen zo concreet mogelijk. Bewaar de oorspronkelijke opname met relevante communicatie; misleidend knippen, bewijs vervalsen of bewust liegen tegen staff is niet toegestaan.
+11. Een report beëindigt een scenario niet. Zet de roleplay voort, tenzij staff anders aangeeft, en bespreek de klacht buiten het karakter.
+12. Een refund wordt beoordeeld op basis van het beschikbare bewijs en is niet automatisch gegarandeerd.
+
+!!! danger "Sanctie"
+    **Categorie 3:** een ban van 2 dagen.
+
+---
+
+## Artikel 23 - Alternatieve karakters
+
+1. Het is niet toegestaan gebruik te maken van alternatieve accounts ('alt accounts') om enig voordeel te behalen.
+2. Accountsharing is niet toegestaan.
+3. Het is niet toegestaan accounts aan te maken of te gebruiken om startersgeld, goederen of andere voordelen naar een ander account over te dragen.
+
+!!! example "Voorbeelden"
+    - Een nieuw account aanmaken om een ban te omzeilen.
+    - Een nieuw account aanmaken om het starters bedrag over te schrijven naar je lopende account.
+    - Een nieuw account aanmaken om opnieuw te beginnen. Hiervoor dient een ticket aangemaakt te worden.
+
+!!! danger "Sanctie"
+    **Categorie 6:** een ban van 1 maand.
+
+---
+
+## Artikel 24 - Belediging
+
+1. Het is niet toegestaan aanstootgevende teksten te plaatsen of uit te spreken.
+2. Lid 1 is ook van toepassing op de volgende teksten:
+    - Naam van jouw Steam account.
+    - Naam van jouw Discord account.
+    - Naam van jouw in-game karakter.
+
+!!! example "Voorbeelden en straffen"
+    - **Schelden met hedendaagse ziektes** → 30 dagen ban.
+    - **Opmerkingen op basis van geslacht, geloofsovertuiging, seksuele voorkeur, ras en gelijke discriminerende opmerkingen** → 30 dagen ban.
+    - **Seksuele opmerkingen** → 7 dagen ban.
+    - **Toxic, uitlokkend of haatzaaiende opmerkingen** → een ban van maximaal 3 dagen.
+
+!!! warning "Permanente ban tot aanpassing"
+    In het geval van lid 2 geldt dat er een (tijdelijke) permanente ban volgens categorie 7 wordt gegeven totdat de betreffende tekst is aangepast en hiervoor een ticket is aangemaakt. 
+
+---
+
+## Artikel 25 - Realistisch rijgedrag
+
+1. Voertuigen moeten worden gebruikt op een manier die past bij hun mogelijkheden en de omstandigheden.
+2. Het is niet toegestaan onrealistische sprongen te maken, met een boot over land te varen of door te rijden met een afgebroken wiel of meer dan één lekke band.
+3. Speel de gevolgen van een zware aanrijding uit. Offroadbanden maken een ongeschikt voertuig niet geschikt voor ieder terrein.
+4. Voor pitmanoeuvres blijft [artikel 13](#artikel-13-pitten) gelden: uitsluitend onder 100 km/h, met een geschikt voertuig en nooit op motoren.
+
+!!! danger "Sanctie"
+    **Categorie 2:** een ban van 1 dag.
+
+---
+
+## Artikel 26 - Achtervolgingen
+
+1. Het is niet toegestaan tijdens een achtervolging of binnen 10 minuten nadat de achtervolgers zijn afgeschud je kleding te wisselen, je voertuig van kleur te veranderen of je appartement binnen te gaan om aan het scenario te ontkomen.
+2. Het wisselen of opbergen van een voertuig om het scenario te ontlopen is binnen dezelfde termijn niet toegestaan.
+3. Voor het opbergen van bezittingen geldt daarnaast [artikel 8](#artikel-8-combat-stashing).
+
+!!! danger "Sanctie"
+    **Categorie 4:** een ban van 3 dagen.
+
+---
+
+*Opgemaakt door Yuna Solstice - 2026*
+
+*© 2026 Unlimited Roleplay. Alle rechten voorbehouden.*
